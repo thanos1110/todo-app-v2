@@ -1,0 +1,19 @@
+.left {
+    position: absolute;
+    height: 100%;
+    background-color: aqua;
+}
+
+.right {
+    position: absolute;
+    height: 100%;
+    background-color: red;
+}
+
+.data {
+    margin: 2%;
+}
+
+.col-lg-5 {
+    margin-left: 50%;
+}
